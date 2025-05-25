@@ -1,0 +1,20 @@
+[
+  { "id": "prep_sol",      "label": "Préparation du sol",  "color": "#E07A5F", "theme": "preparation" },
+  { "id": "semis",         "label": "Semis",                "color": "#F2CC8F", "theme": "semis" },
+
+  { "id": "fongicide_1",   "label": "Traitement fongicide", "color": "#81B29A", "theme": "fongicide" },
+  { "id": "fongicide_2",   "label": "Traitement fongicide", "color": "#81B29A", "theme": "fongicide" },
+  { "id": "fongicide_3",   "label": "Traitement fongicide", "color": "#81B29A", "theme": "fongicide" },
+
+  { "id": "herbicide_1",   "label": "Traitement herbicide",  "color": "#81B29A", "theme": "herbicide" },
+  { "id": "herbicide_2",   "label": "Traitement herbicide",  "color": "#81B29A", "theme": "herbicide" },
+
+  { "id": "insecticide_1", "label": "Traitement insecticide","color": "#81B29A", "theme": "insecticide" },
+  { "id": "insecticide_2", "label": "Traitement insecticide","color": "#81B29A", "theme": "insecticide" },
+
+  { "id": "engrais_1",     "label": "Apport d’engrais",      "color": "#F4F1DE", "theme": "engrais" },
+  { "id": "engrais_2",     "label": "Apport d’engrais",      "color": "#F4F1DE", "theme": "engrais" },
+  { "id": "engrais_3",     "label": "Apport d’engrais",      "color": "#F4F1DE", "theme": "engrais" },
+
+  { "id": "recolte",       "label": "Récolte",              "color": "#2E4057", "theme": "recolte" }
+]

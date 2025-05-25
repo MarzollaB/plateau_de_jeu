@@ -1,0 +1,356 @@
+[
+  {
+    "problemeId": "001",
+    "solutions": [
+      {
+        "title": "Labour profond (25–30 cm)",
+        "steps": [
+          "En automne, privilégier un labour dressé, qui retourne et nivelle le sol en un seul passage, favorisant l’infiltration hivernale.",
+          "En fin d’hiver (mars–avril), opter pour un labour jeté, plus agressif, pour désagréger les ruques compactées sous l’effet du gel.",
+          "Utiliser une charrue réversible (ex. Kuhn Vari-Master) : angle de gîte contrôlé, vitesse de 4–6 km/h, pénétration progressive."
+        ]
+      },
+      {
+        "title": "Rotation adaptée",
+        "steps": [
+          "Introduire une culture intermédiaire à racines pivotantes (radis fourrager ou moutarde) tous les 3 ans pour créer des fissures verticales, préparant l’horizon profond et limitant la re-compaction.",
+          "Enchaîner sur un déchaumage superficiel puis un travail de préparation du lit de semence, renforçant la structure en profondeur."
+        ]
+      },
+      {
+        "title": "Décompactage ciblé",
+        "steps": [
+          "Réglage de la dent à 15 cm de profondeur",
+          "Bande suivante décalée de 30 cm pour préserver la structure intercalaire",
+          "Passage idéal à 8 km/h, en conditions de sol légèrement humide."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "002",
+    "solutions": [
+      {
+        "title": "Herse niveleuse en croisement",
+        "steps": [
+          "Deux passages croisés à 6 km/h pour fragmenter les mottes : première passe pour briser les gros fragments, seconde pour niveler le sol."
+        ]
+      },
+      {
+        "title": "Rouleau niveleur",
+        "steps": [
+          "Dal-Bo Rollex, pression réglée à 10 kg/cm, pour lisser la surface et tasser légèrement les petites particules."
+        ]
+      },
+      {
+        "title": "Herse étrille",
+        "steps": [
+          "Dents espacées de 15 cm, profondeur 5 cm, passage à 8 km/h pour éliminer les derniers fragments et répartir uniformément la matière organique."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "003",
+    "solutions": [
+      {
+        "title": "Chaux dolomitique",
+        "steps": [
+          "1 t/ha de chaux fine (< 0,5 mm) incorporée à 5–10 cm, 6 semaines avant semis pour permettre la neutralisation des acides."
+        ]
+      },
+      {
+        "title": "Écumes de sucrerie",
+        "steps": [
+          "2 t/ha appliquées en automne puis enfouies superficiellement au déchaumage."
+        ]
+      },
+      {
+        "title": "Contrôle post-chaulage",
+        "steps": [
+          "Vérifier le pH 6 semaines après et apporter 0,5 t/ha supplémentaire si pH < 6,2."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "004",
+    "solutions": [
+      {
+        "title": "Compost mûr",
+        "steps": [
+          "20 t/ha incorporé superficiellement (5–10 cm) au déchaumage d’automne."
+        ]
+      },
+      {
+        "title": "Fumier bovin",
+        "steps": [
+          "15 t/ha réparti après moisson, enfoui à la herse étrille."
+        ]
+      },
+      {
+        "title": "Prairie temporaire",
+        "steps": [
+          "2 ans de mélanges légumineuses + ray-grass puis faux-semis avant retour en froment pour intégrer 4–6 t/ha de biomasse."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "005",
+    "solutions": [
+      {
+        "title": "Broyeur-désileur",
+        "steps": [
+          "Broyage des résidus en particules < 5 cm, passage à 8 km/h."
+        ]
+      },
+      {
+        "title": "Incorporation superficielle",
+        "steps": [
+          "Déchaumage à 3–5 cm suivi d’un passage de rouleau léger."
+        ]
+      },
+      {
+        "title": "Faux-semis",
+        "steps": [
+          "Destruction des repousses volontaires post-incorporation."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "006",
+    "solutions": [
+      {
+        "title": "Décompactage à dents",
+        "steps": [
+          "Claydon Terra-Blade, dents à 15 cm, bandes alternées espacées de 30 cm."
+        ]
+      },
+      {
+        "title": "Labour ciblé",
+        "steps": [
+          "Labour jeté à 30 cm sur bandes identifiées, puis semis en sash pattern pour préserver les zones saines."
+        ]
+      },
+      {
+        "title": "Limiter le trafic",
+        "steps": [
+          "Réserver les passages de machines lourdes aux périodes sèches, et installer des passages dédiés."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "007",
+    "solutions": [
+      {
+        "title": "Premier faux-semis",
+        "steps": [
+          "Dès que T° sol ≥ 10 °C, herse étrille à 6–8 km/h, incorporer 2–3 cm."
+        ]
+      },
+      {
+        "title": "Second passage",
+        "steps": [
+          "5 jours plus tard pour capturer les germinations différées."
+        ]
+      },
+      {
+        "title": "Sécheresse ciblée",
+        "steps": [
+          "Laisser sécher 3–5 jours post-étrille, puis semis lorsque la surface ne colle plus."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "008",
+    "solutions": [
+      {
+        "title": "Surveillance météo",
+        "steps": [
+          "Consulter IRM 3 jours avant et le matin même via application mobile."
+        ]
+      },
+      {
+        "title": "Fenêtre météo",
+        "steps": [
+          "Cibler 2–3 jours sans pluie prévue pour préparer puis semer."
+        ]
+      },
+      {
+        "title": "Dernier contrôle",
+        "steps": [
+          "Vérifier l’adhérence du sol sous la semelle à pied 2 h avant semis."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "009",
+    "solutions": [
+      {
+        "title": "Report de semis",
+        "steps": [
+          "Décaler de 2–3 jours en l’absence de pluie."
+        ]
+      },
+      {
+        "title": "Semoir à disques",
+        "steps": [
+          "Horsch Avatar, disques indépendants + pneus basse pression (0,6–0,8 bar)."
+        ]
+      },
+      {
+        "title": "Fraises de surface",
+        "steps": [
+          "Légère herse étrille après 2 jours de séchage pour briser la croûte."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "010",
+    "solutions": [
+      {
+        "title": "Calibration précise",
+        "steps": [
+          "Ajuster le débit selon le PMG (1 000 grains = 40–45 g) et tester sur 10 m² avant chaque parcelle."
+        ]
+      },
+      {
+        "title": "Entretien semoir",
+        "steps": [
+          "Nettoyer rouleaux, vérifier orifices, régler la pression de contact."
+        ]
+      },
+      {
+        "title": "Vitesse stable",
+        "steps": [
+          "Maintenir 5–7 km/h pour un flux uniforme de grains."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "011",
+    "solutions": []
+  },
+  {
+    "problemeId": "012",
+    "solutions": [
+      {
+        "title": "Réglage patins",
+        "steps": [
+          "Ajuster la profondeur à 2–3 cm via patins de semoir, puis valider sur terrain humide et sec."
+        ]
+      },
+      {
+        "title": "Adaptation texture",
+        "steps": [
+          "1,5–2 cm sur sol sableux, 3 cm max sur limon-argileux."
+        ]
+      },
+      {
+        "title": "Contrôle continu",
+        "steps": [
+          "Repasser sur 10 m² pour vérifier la consistance du semis."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "013",
+    "solutions": [
+      {
+        "title": "Nettoyage et graissage",
+        "steps": [
+          "Retirer poussières et résidus de méthyluracile, lubrifier les rouleaux et engrenages."
+        ]
+      },
+      {
+        "title": "Réglage pression",
+        "steps": [
+          "Vérifier la pression de contact des rouleaux doseurs (300–400 g par grain)."
+        ]
+      },
+      {
+        "title": "Vitesse constante",
+        "steps": [
+          "Maintenir 5–7 km/h, surveiller la régularité du tapis."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "014",
+    "solutions": [
+      {
+        "title": "Semence certifiée",
+        "steps": [
+          "Taux de germination ≥ 95 %, traitement au sedaxane pour protection fongique."
+        ]
+      },
+      {
+        "title": "Stockage adéquat",
+        "steps": [
+          "Entreposer à 10–15 °C, humidité < 12 % pour préserver la viabilité."
+        ]
+      },
+      {
+        "title": "Test germination",
+        "steps": [
+          "Épreuve de paper-towel à 20 °C sur 100 grains, 7 jours avant semis."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "015",
+    "solutions": [
+      {
+        "title": "Comptage à J+3",
+        "steps": [
+          "Relever la densité sur 0,5 m² à cinq emplacements, noter variations."
+        ]
+      },
+      {
+        "title": "Journal de bord",
+        "steps": [
+          "Consigner dose, PMG, conditions météo, profondeur et régulateur."
+        ]
+      },
+      {
+        "title": "Ajustement rapide",
+        "steps": [
+          "Si densité < 300 pl/m², prévoir un semis complémentaire sur les zones déficitaires."
+        ]
+      }
+    ]
+  },
+  {
+    "problemeId": "016",
+    "solutions": [
+      {
+        "title": "Semis variable",
+        "steps": [
+          "Utiliser la fonction GPS et débit variable sur semoir à commande hydraulique."
+        ]
+      },
+      {
+        "title": "Niveau uniforme",
+        "steps": [
+          "Recourir à un niveleur laser ou à rouleau type Cambridge pour homogénéiser la surface."
+        ]
+      },
+      {
+        "title": "Gestion des différences",
+        "steps": [
+          "Ajuster localement profondeur et dose en fonction des tests de texture."
+        ]
+      }
+    ]
+  }
+]

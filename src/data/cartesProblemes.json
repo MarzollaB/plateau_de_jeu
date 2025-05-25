@@ -1,0 +1,149 @@
+[
+  {
+    "id": "001",
+    "theme": "preparation",
+    "titre": "Fiche 1 – Portance insuffisante (MPa < 1,5)",
+    "recto": "Le sol présente une portance mesurée < 1,5 MPa sur 0–30 cm, limitant le développement racinaire et la pénétration d’eau.",
+    "diagnostic": "Mesure au pénétromètre (plusieurs points par parcelle) confirmant que la portance cible (≥ 1,8 MPa) n’est pas atteinte.",
+    "source": "CRA-W (2023). Portance des sols et systèmes de travail.",
+    "image": ""
+  },
+  {
+    "id": "002",
+    "theme": "preparation",
+    "titre": "Fiche 2 – Mottes trop grosses (> 5 cm)",
+    "recto": "Après le premier passage d’outil, de larges agrégats de terre supérieurs à 5 cm demeurent en surface, empêchant un bon contact entre graine et sol, créant des poches d’air et nuisant à une levée uniforme.",
+    "diagnostic": "Sur cinq zones représentatives, un tamisage manuel (maille 3 cm) révèle que plus de 20 % des fragments dépassent 5 cm, et visuellement on constate des zones clairsemées à l’émergence.",
+    "htmlContent": "<p><strong>Notes :</strong></p><ul><li>Pour un bon lit de semence, viser que 100 % des mottes soient inférieures à 4 cm, idéalement 90 % entre 1 et 3 cm.</li><li>Sous 5 cm de profondeur (horizon 0–5 cm), les particules doivent être fragmentées (< 2 cm) pour assurer un tassement uniforme.</li></ul>",
+    "source": "Arvalis (2022). Techniques d’émiettement du sol et préparation du lit de semence.",
+    "image": ""
+  },
+  {
+    "id": "003",
+    "theme": "preparation",
+    "titre": "Fiche 3 – pH acide (pH < 6,0)",
+    "recto": "Le pH du sol, mesuré à 5,6 dans l’horizon 0–30 cm, est insuffisant pour la disponibilité en nutriments (N, P, K) et ralentit la germination et la vigueur initiale des plantules.",
+    "diagnostic": "Test in situ avec pH-mètre portable corroboré par une analyse laboratoire (méthode titrimétrique) confirmant pH < 6,0.",
+    "source": "CRA-W (2024). Amendement calcique des sols pour cultures céréalières.",
+    "image": ""
+  },
+  {
+    "id": "004",
+    "theme": "preparation",
+    "titre": "Fiche 4 – Matière organique insuffisante (MO < 2 %)",
+    "recto": "La teneur en matière organique mesurée à 1,6 % rend le sol peu cohésif, réduit sa capacité de rétention d’eau et affaiblit la structure des agrégats.",
+    "diagnostic": "Analyse laboratoire confirmée par observation de sols émiettés ne formant pas d’agrégats stables au roulage.",
+    "source": "CRA-W (2023). Gestion de la matière organique et rotation culturale.",
+    "image": ""
+  },
+  {
+    "id": "005",
+    "theme": "preparation",
+    "titre": "Fiche 5 – Résidus mal gérés du précédent",
+    "recto": "Les chaumes et pailles sont entassés (> 4 t/ha) sans broyage ni incorporation, gênant la préparation mécanique du sol et le positionnement des semences.",
+    "diagnostic": "Estimation en volume et collecte manuelle d’un échantillon (1 m²) confirmant > 4 t/ha de résidus en surface.",
+    "source": "Livre Blanc CRA-W (2024). Gestion des résidus de récolte.",
+    "image": ""
+  },
+  {
+    "id": "006",
+    "theme": "preparation",
+    "titre": "Fiche 6 – Sol compacté non détecté",
+    "recto": "Des zones tassées non visibles en surface provoquent des irrégularités de semis et de levée sans motif apparent à l’œil nu.",
+    "diagnostic": "Pression du pied sur sol humide créant des empreintes > 4 cm, et mesure à 15 cm avec pénétromètre montrant une hausse brusque de la résistance.",
+    "source": "CRA-W (2023). Techniques de décompactage localisé.",
+    "image": ""
+  },
+  {
+    "id": "007",
+    "theme": "semis",
+    "titre": "Fiche 7 – Absence de faux-semis",
+    "recto": "Aucun faux-semis n’a été réalisé, laissant les germinations adventices proliférer au moment du semis principal.",
+    "diagnostic": "Comptage à J–semis sur 1 m² : 100 plantules adventices/m² (vulpin, ray-grass) confirmant un fort retraitement.",
+    "source": "Phytoweb (2023). Guide du faux-semis pour céréales.",
+    "image": ""
+  },
+  {
+    "id": "008",
+    "theme": "semis",
+    "titre": "Fiche 8 – Météo non observée",
+    "recto": "Le planning de préparation et de semis est réalisé sans tenir compte des prévisions pluviométriques et de l’état hygrométrique du sol.",
+    "diagnostic": "Absence de consultation IRM, corrélation entre semis planifiés avant 20 mm de pluie et semoir colmaté.",
+    "source": "IRM Belgique (2024). Prévisions pluviométriques pour travaux agricoles.",
+    "image": ""
+  },
+  {
+    "id": "009",
+    "theme": "semis",
+    "titre": "Fiche 9 – Sol trop humide",
+    "recto": "Le sol adhère aux disques et roues, formant des bourrages et empêchant les graines d’être déposées proprement.",
+    "diagnostic": "Test manuel : poignée de terre à 5 cm formant une boule collante, relevé pluviométrique > 20 mm sur 3 jours.",
+    "source": "Arvalis (2022). Techniques de semis en sol humide.",
+    "image": ""
+  },
+  {
+    "id": "010",
+    "theme": "semis",
+    "titre": "Fiche 10 – Distribution inégale",
+    "recto": "Au contrôle post-semis, des doublettes et des manques réguliers (> 5 doublettes et > 3 manques par mètre).",
+    "diagnostic": "Analyse de la dose : comparaison entre la dose calculée et la quantité réellement épandue sur 10 m² ; observation du semoir en marche.",
+    "source": "Arvalis (2022). Réglages et calibration des semoirs céréales.",
+    "image": ""
+  },
+  {
+    "id": "011",
+    "theme": "semis",
+    "titre": "Fiche 11 – Densité de semis inadaptée",
+    "recto": "La densité mesurée (< 300 pl/m² ou > 400 pl/m²) diffère de la cible optimale (350 pl/m²), entraînant clairsemés ou compétition excessive.",
+    "diagnostic": "",
+    "htmlContent": "<p><strong>Calcul de dose :</strong></p><p>Exemple :<br>Densité cible = 300 pl/m²<br>PMG = 45 g<br>Dose = (300 × 45 × 10) ÷ 1000 = 135 kg/ha</p><ul><li>Ajustement semoir : reparamétrer le débit via indicateur de dose et contrôler sur 10 m².</li><li>Vérification : comptage de contrôle à J+3 pour valider et corriger si nécessaire.</li></ul><p><strong>Note :</strong> Livre Blanc Céréales. (n.d.). Densité de semis. Consulté le 17 mai 2025, https://livre-blanc-cereales.be/thematiques/semis/densite-de-semis/</p>",
+    "source": "Tutoriel CRA-W (2024); CRA-W (2023). Livre blanc Céréales; Arvalis (2024). Recommandations semis froment d’hiver.",
+    "image": ""
+  },
+  {
+    "id": "012",
+    "theme": "semis",
+    "titre": "Fiche 12 – Profondeur de semis inadéquate",
+    "recto": "Le dépôt des graines à plus de 3 cm ou moins de 2 cm perturbe la germination, provoquant levée tardive ou faible ancrage.",
+    "diagnostic": "Mesure immédiate à 2 heures post-semis avec une sonde de profondeur : moyenne des cinq points > 3 cm ou < 2 cm.",
+    "source": "Arvalis (2022). Profondeur de semis optimale pour froment.",
+    "image": ""
+  },
+  {
+    "id": "013",
+    "theme": "semis",
+    "titre": "Fiche 13 – Semoir mal réglé",
+    "recto": "Mauvais calage entraînant distribution irrégulière (sauts de débit, doublettes) malgré la bonne dose.",
+    "diagnostic": "Inspection avant chantier : test de distribution sur planchette, observation de grains sautant ou en continu.",
+    "htmlContent": "<ul><li>Le méthyluracile inhibe la synthèse des parois fongiques lors de la germination, protégeant le semis contre la fonte.</li><li>Surveiller la régularité du tapis pour garantir un lit de semence homogène.</li></ul>",
+    "source": "Manuel Horsch (2023). Entretien et réglages du semoir.",
+    "image": ""
+  },
+  {
+    "id": "014",
+    "theme": "semis",
+    "titre": "Fiche 14 – Semence non certifiée",
+    "recto": "Utilisation de semences dont le taux de germination est < 90 % ou non traitées, risquant des échecs de levée.",
+    "diagnostic": "Vérification du lot de semence : certificat de germination et étiquette graphique du fournisseur.",
+    "source": "FMB (2024). Standards de qualité des semences.",
+    "image": ""
+  },
+  {
+    "id": "015",
+    "theme": "semis",
+    "titre": "Fiche 15 – Pas de vérification post-semis",
+    "recto": "Aucune évaluation formelle du semis dans la semaine qui suit, empêchant la correction rapide des erreurs.",
+    "diagnostic": "Absence de relevé dans le carnet de bord agricole à J+3 – J+5 ; aucun comptage effectué.",
+    "source": "CRA-W (2023). Procédures de suivi post-semis.",
+    "image": ""
+  },
+  {
+    "id": "016",
+    "theme": "semis",
+    "titre": "Fiche 16 – Semis sur sol hétérogène",
+    "recto": "Infiltration et texture variables provoquent levées irrégulières, malgré réglages constants du semoir.",
+    "diagnostic": "Carottages rapides (sonde manuelle) montrent des alternances de sable limoneux et d’argile.",
+    "source": "Arvalis (2023). Variabilité intra-parcellaire et semis à modulation.",
+    "image": ""
+  }
+]
