@@ -53,7 +53,7 @@ function Guide({ onStart }: { onStart: () => void }) {
       </p>
       <h2>Objectifs</h2>
       <p>
-        Cet outil va vous permettre d'appréhender tout ce qui « cyclique » dans votre formation : l'implantation et le développement d'une culture, le cycle de reproduction d'un ravageur ou d'un parasite, d'un bovin/ovin...
+        Cet outil va vous permettre d'appréhender tout ce qui est « cyclique » dans votre formation : l'implantation et le développement d'une culture, le cycle de reproduction d'un ravageur ou d'un parasite, d'un bovin/ovin...
       </p>
       <h2>Règles</h2>
       <p>
