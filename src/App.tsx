@@ -42,6 +42,60 @@ type DragPayload = {
   color: string
 }
 
+// Composant Guide
+function Guide({ onStart }: { onStart: () => void }) {
+  return (
+    <div style={{ padding: 20, maxWidth: 800, margin: '0 auto' }}>
+      <h1>Guide d'utilisation du Plateau de jeu</h1>
+      <p>
+        Bienvenue sur ce plateau de jeu ! Vous êtes les tout premiers à découvrir cet outil créé dans le cadre de mon TFE, intitulé :<br/>
+        <em>« Et si l’étudiant savait déjà ? Des outils pédagogiques pour accompagner les apprenants adultes dans la formation en agronomie »</em>
+      </p>
+      <h2>Objectifs</h2>
+      <p>
+        Cet outil va vous permettre d'appréhender tout ce qui « cyclique » dans votre formation : l'implantation et le développement d'une culture, le cycle de reproduction d'un ravageur ou d'un parasite, d'un bovin/ovin...
+      </p>
+      <h2>Règles</h2>
+      <p>
+        Grâce au plateau de jeu qui suit une année civile, vous allez pouvoir placer les pions correspondants aux stades de développement, aux différents travaux culturaux… bref, aux différents moments d'un cycle, tout autour du plateau.
+      </p>
+      <ol>
+        <li>Placez les magnets partout autour du plateau afin de réaliser le cycle demandé (ici FH dans l'exemple).</li>
+        <li>
+          Dans la partie de droite de votre écran, sélectionnez ensuite votre thème via le menu déroulant, la partie du cycle à explorer via les cartes “Problèmes/Observation” (ici uniquement Préparation du sol et Semis sont accessibles) ⇒ cliquez sur “Piocher”.
+        </li>
+        <li>
+          Aléatoirement, une carte “Problème” en lien avec le thème choisi apparaît. Celle-ci vous propose donc un problème constaté lors de votre étape du cycle, ainsi que la manière de l'observer.
+        </li>
+        <li>
+          Pour la suite, vous avez 2 possibilités :
+          <ul>
+            <li>soit vous cliquez sur “Afficher les solutions”</li>
+            <li>soit vous scannez le QR code disponible sur le plateau de jeu</li>
+          </ul>
+          ⇒ ces deux méthodes vous amènent sur la page complète des cartes “Problèmes/Solutions” triées par thème.
+        </li>
+      </ol>
+      <p><em>Vous pouvez à tout moment consulter les cartes dans une page annexe, tout en conservant votre tableau de jeu.</em></p>
+      <button
+        onClick={onStart}
+        style={{
+          display: 'block',
+          margin: '40px auto 0',
+          padding: '10px 20px',
+          background: '#333',
+          color: '#fff',
+          border: 'none',
+          borderRadius: 4,
+          cursor: 'pointer'
+        }}
+      >
+        Accéder au plateau de jeu
+      </button>
+    </div>
+  )
+}
+
 // Composant Plateau (drop natif)
 function Plateau({
   width, height, placed, onDrop
@@ -109,6 +163,8 @@ function Plateau({
 }
 
 export default function App() {
+  const [showGuide, setShowGuide] = useState(true)
+
   const PLW = 764, PLH = 529
   const [placed, setPlaced] = useState<Record<string,{x:number,y:number,theme:string,color:string}>>({})
   const [selectedTheme, setSelectedTheme] = useState<typeof themeOrder[number]>('preparation')
@@ -137,6 +193,10 @@ export default function App() {
 
   const handleShowSolutions = () => {
     window.open('https://marzollab.github.io/cartes-PB-SOL/', '_blank')
+  }
+
+  if (showGuide) {
+    return <Guide onStart={() => setShowGuide(false)} />
   }
 
   return (
